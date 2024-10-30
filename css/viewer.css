@@ -1,0 +1,6 @@
+/*
+ * Only included on wp-admin/revision.php for changing line paddings
+ *
+ * @since 0.4
+ */
+table.diff td { padding: 0; }

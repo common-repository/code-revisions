@@ -1,0 +1,33 @@
+/*
+ * File to style the revisions metabox and link on wp-admin/plugin-editor.php and
+ * wp-admin/theme-editor.php
+ *
+ * @since 0.2
+ */
+.metabox-holder .postbox {
+	width: 97%;
+}
+
+#revisionsdiv .hndle {
+	cursor: default;
+}
+
+#revisionsdiv .handlediv {
+	width: auto;
+	margin-right: 10px;
+	background: none;
+	line-height: 27px;
+}
+
+#revisionsdiv .handlediv input {
+	margin-left: 5px;
+	margin-top:  2px;
+}
+
+#revisionsdiv .inside {
+	margin-right: 0;
+}
+
+.revisions_link {
+	margin-left: 5px;
+}
